@@ -1,2 +1,3 @@
 // creted Header -> MenuItem -> add Header before children in layoutjsx -> created Providerjsx and install theme from next ->
-//     wrap children to theme provider -> created DarkModejsx, used useTheme then lastly added mounted useState and useEffect
+//     wrap children to theme provider -> created DarkModejsx, used useTheme then lastly added mounted useState and useEffect ->
+// create about page -> Create Navbarjsx and NavBarItemsjsx and Import UsesearchParam in NavBarItem
