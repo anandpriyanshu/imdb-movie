@@ -1,0 +1,2 @@
+// creted Header -> MenuItem -> add Header before children in layoutjsx -> created Providerjsx and install theme from next ->
+//     wrap children to theme provider -> created DarkModejsx, used useTheme then lastly added mounted useState and useEffect
