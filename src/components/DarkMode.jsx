@@ -14,11 +14,12 @@ const DarkMode = () => {
     return (
         <div>
             {
-                mounted && (currentTheme == "dark" ? <MdLightMode onClick={() => setTheme("light")}
-                    className='text-xl hover:text-blue-400 cursor-pointer'
-                /> : <MdDarkMode onClick={() => setTheme("dark")}
-                    className='text-xl hover:text-blue-400 cursor-pointer'
-                />
+                mounted && (currentTheme == "dark" ?
+                    <MdLightMode onClick={() => setTheme("light")}
+                        className='text-xl hover:text-blue-400 cursor-pointer'
+                    /> : <MdDarkMode onClick={() => setTheme("dark")}
+                        className='text-xl hover:text-blue-400 cursor-pointer'
+                    />
                 )}
         </div>
     )
