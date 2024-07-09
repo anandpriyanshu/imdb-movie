@@ -2,4 +2,4 @@
 //     wrap children to theme provider -> created DarkModejsx, used useTheme then lastly added mounted useState and useEffect ->
 // create about page -> Create Navbarjsx and NavBarItemsjsx and Import UsesearchParam in NavBarItem ->
 // fetch data from TMDB api in pagejsx and created the Result component ->
-//creted error.jsx  
+//creted error.jsx  -> Created loadingjsx and Add loading effect 
