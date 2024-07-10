@@ -3,4 +3,4 @@
 // create about page -> Create Navbarjsx and NavBarItemsjsx and Import UsesearchParam in NavBarItem ->
 // fetch data from TMDB api in pagejsx and created the Result component ->
 //creted error.jsx  -> Created loadingjsx and Add loading effect -> create card component ->
-created movie page with dynamix routes using params
+created movie page with dynamix routes using params -> create searchBox in app folder
